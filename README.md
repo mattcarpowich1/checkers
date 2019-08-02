@@ -1,2 +1,2 @@
 # checkers
-Checkers game in react
+Checkers game in react!
